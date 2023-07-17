@@ -63,17 +63,17 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Vet Clinc Project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> A Project about records of animals in the clinic and different infomation about them
 
-**[your_project__name]** is a...
+**[Vet Clinic]** is a a project based on Postgres NOsql
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+>Built with PostgreSQL
 
 <details>
   <summary>Client</summary>
@@ -114,7 +114,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](<replace-with-your-deployment-URL>)
+- Coming soon ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,11 +124,13 @@ After you're finished please remove all the comments and instructions!
 
 > Describe how a new developer could make use of your project.
 
-To get a local copy up and running, follow these steps.
+
 
 ### Prerequisites
 
 In order to run this project you need:
+
+You need to have PostgreSQL installed on you desktop
 
 <!--
 Example command:
@@ -210,15 +212,10 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@toyman640](https://github.com/toyman640)
+- Twitter: [@_toyman](https://twitter.com/_toyman)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) 
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -258,9 +255,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank Microverse Community for inspiring this project and documentations. It is a pleasure to have joined the program and I hope to learn a lot more as I progress.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
