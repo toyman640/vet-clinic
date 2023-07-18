@@ -11,6 +11,18 @@ SELECT * FROM animals WHERE weight_kg BETWEEN 10.4 AND 17.3;
 
 
 BEGIN;
+  UPDATE animals
+  set species = 'digimon'
+  where name like '%mon';
+  update animals
+  set species = 'pokemon'
+  where species not like = '%mon';
+  select * from animals;
+COMMIT;
+select * from animals;
+
+
+BEGIN;
  DELETE FROM animals;
  ROLLBACK;
 COMMIT;
